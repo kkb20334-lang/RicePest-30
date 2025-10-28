@@ -10,7 +10,7 @@ RicePest-30 is a multi-class rice pest detection dataset designed to support int
 Images were collected from:
 
 Field traps — UV light traps deployed in Hunan Province (Suining, Taoyuan, Wangcheng, etc.), covering different rice growth stages.
-
+ 
 Web sources — Carefully screened to ensure visual consistency with field images.
 
 Laboratory samples — Including single-pest and white-background images for fine-grained recognition.
