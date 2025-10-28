@@ -1,5 +1,6 @@
 🪲 RicePest-30 Dataset
 
+
 📘 Overview
 
 RicePest-30 is a multi-class rice pest detection dataset designed to support intelligent agricultural monitoring and pest recognition research. It contains 30 pest species, 8,848 images, and 62,227 annotated instances in COCO format.
