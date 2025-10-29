@@ -86,7 +86,6 @@ RicePest-30 will be publicly available at:
 RicePest-30 数据集将在上述地址开放下载，供科研与教学使用。请遵守 CC BY-NC 4.0 协议。
 
 
-
 <div align="center">
   <sub>© 2025 RicePest-30 Dataset | Licensed under CC BY-NC 4.0 | Created for Agricultural AI Research</sub>
 </div>
