@@ -80,29 +80,12 @@ Examples include:
 ## 🔗 Access | 获取方式
 
 RicePest-30 will be publicly available at:  
-👉 [**https://github.com/YourName/RicePest-30**](https://github.com/YourName/RicePest-30)  
+👉 [**https://github.com/YourName/RicePest-30**](https://github.com/kkb20334-lang/RicePest-30)  
 *(Repository under preparation — dataset will be uploaded soon.)*
 
 RicePest-30 数据集将在上述地址开放下载，供科研与教学使用。请遵守 CC BY-NC 4.0 协议。
 
----
 
-## 💡 Citation | 引用格式
-
-If you use RicePest-30 in your research, please cite:
-
-> **RicePest-30: A Multi-class Rice Pest Detection Dataset for Deep Learning-based Agricultural Monitoring.**  
-> [Online]. Available: https://github.com/YourName/RicePest-30
-
----
-
-## 📬 Contact | 联系方式
-
-For questions, collaborations, or feedback:  
-📧 Email: yourname@yourinstitution.edu  
-🌐 Project Lead: [Your Name / Lab / University]
-
----
 
 <div align="center">
   <sub>© 2025 RicePest-30 Dataset | Licensed under CC BY-NC 4.0 | Created for Agricultural AI Research</sub>
