@@ -80,7 +80,7 @@ Examples include:
 ## 🔗 Access | 获取方式
 
 RicePest-30 will be publicly available at:  
-👉 [**https://github.com/YourName/RicePest-30**](https://github.com/kkb20334-lang/RicePest-30)  
+👉 [**https://github.com/kkb20334-lang/RicePest-30**](https://github.com/kkb20334-lang/RicePest-30)  
 
 
 RicePest-30 数据集将在上述地址开放下载，供科研与教学使用。请遵守 CC BY-NC 4.0 协议。
